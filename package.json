@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "back end project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev" : "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ravichandra89/BackEnd-Project-/issues"
   },
-  "homepage": "https://github.com/Ravichandra89/BackEnd-Project-#readme"
+  "homepage": "https://github.com/Ravichandra89/BackEnd-Project-#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
