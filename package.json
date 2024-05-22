@@ -1,0 +1,19 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "back end project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravichandra89/BackEnd-Project-.git"
+  },
+  "author": "Ravi Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravichandra89/BackEnd-Project-/issues"
+  },
+  "homepage": "https://github.com/Ravichandra89/BackEnd-Project-#readme"
+}
